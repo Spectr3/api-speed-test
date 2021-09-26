@@ -1,34 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Repos\\api-speed-test\\dotnet-main\\dotnet-main.csproj": {}
+    "/home/golangdev/go/src/api-speed-test/dotnet-main/dotnet-main.csproj": {}
   },
   "projects": {
-    "E:\\Repos\\api-speed-test\\dotnet-main\\dotnet-main.csproj": {
+    "/home/golangdev/go/src/api-speed-test/dotnet-main/dotnet-main.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Repos\\api-speed-test\\dotnet-main\\dotnet-main.csproj",
+        "projectUniqueName": "/home/golangdev/go/src/api-speed-test/dotnet-main/dotnet-main.csproj",
         "projectName": "dotnet-main",
-        "projectPath": "E:\\Repos\\api-speed-test\\dotnet-main\\dotnet-main.csproj",
-        "packagesPath": "C:\\Users\\Martyn\\.nuget\\packages\\",
-        "outputPath": "E:\\Repos\\api-speed-test\\dotnet-main\\obj\\",
+        "projectPath": "/home/golangdev/go/src/api-speed-test/dotnet-main/dotnet-main.csproj",
+        "packagesPath": "/home/golangdev/.nuget/packages/",
+        "outputPath": "/home/golangdev/go/src/api-speed-test/dotnet-main/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Martyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "/home/golangdev/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.401/RuntimeIdentifierGraph.json"
         }
       }
     }
